@@ -26,16 +26,6 @@ Higher scores = more streams or trending tracks on Spotify.
 
 ---
 
-## 📸 Dashboard Preview
-
-**Track Table View**
-![Track Table](assets/dashboard_preview.png)
-
-**Track Popularity Chart**
-![Track Popularity Chart](assets/track_popularity_chart.png)
-
----
-
 ## ⚙️ Tech Stack
 
 - **Python** 🐍
