@@ -2,6 +2,9 @@
 
 This project compares the **top tracks and popularity** of artists like **Kendrick Lamar**, **Drake**, and **J. Cole** using Spotify’s API — all visualized in a clean, interactive Streamlit app.
 
+📊 Streamlit Dashboard: Compare track popularity of Kendrick, Drake & J. Cole using Spotify API
+https://spotifyartistcomparison-bymt.streamlit.app/
+
 ---
 
 ## 📊 What It Does
