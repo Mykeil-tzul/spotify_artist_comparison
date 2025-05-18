@@ -76,3 +76,22 @@ SPOTIPY_CLIENT_SECRET=your_client_secret
 streamlit run dashboard.py
 
 
+---
+
+## 📁 Folder Structure
+
+spotify_artist_comparison/
+│
+├── fetch_artist_data.py # ETL script to pull and save top tracks
+├── dashboard.py # Streamlit UI
+├── artist_comparison.csv # Cleaned output data
+├── .env # Spotify credentials (not pushed)
+├── requirements.txt # Project dependencies
+└── README.md # This file
+
+---
+
+## 💼 Author
+
+Built with 🔥 by [@Mykeil-tzul](https://github.com/Mykeil-tzul) — **data engineer in the making & former hooper blending tech + music + data**.  
+
