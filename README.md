@@ -48,9 +48,14 @@ Higher scores = more streams or trending tracks on Spotify.
 
 - **API Authentication:** Initially, I struggled with setting up Spotify's OAuth flow. After consulting the documentation and community forums, I successfully implemented the Client Credentials Flow.
 
-- **Data Normalization:** The audio features returned by the API had varying scales. I normalized the data to ensure accurate comparisons across different metrics.
+- **API Key Security:** I accidentally pushed my `.env` file with API credentials in an early commit. I resolved it by updating `.gitignore`, removing sensitive data from history, and pushing a clean version.
 
-- **Visualization:** Choosing the right type of chart to represent the data was challenging. I experimented with various chart types before settling on interactive bar charts for clarity.
+- **Data Normalization:** The audio features returned by the API had varying scales. I normalized and selected only the most relevant metrics to ensure accurate comparisons across different tracks and artists.
+
+- **Visualization:** Choosing the right type of chart to represent the data was challenging. I experimented with several chart types before settling on interactive bar charts using Altair for clarity and user engagement.
+
+- **Streamlit UI Design:** Keeping the dashboard clean and easy to use while still delivering insights required UI tweaks. I focused on simplicity and tested usability for smooth artist comparisons.
+
 
 ---
 
