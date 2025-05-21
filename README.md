@@ -78,6 +78,10 @@ streamlit run dashboard.py
 
 ---
 
+🔒 This project securely loads credentials using a `.env` file, which is never tracked by Git.
+
+---
+
 ## 📁 Folder Structure
 
 spotify_artist_comparison/
